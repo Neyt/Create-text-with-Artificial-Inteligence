@@ -39,3 +39,6 @@ pip install requests
 pip install h5py
 pip install tensorflow
 pip install keras
+
+
+Atention: try to use simple txt. if your file is too complex it will crash your computer. 
